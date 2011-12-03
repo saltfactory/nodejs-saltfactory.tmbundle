@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Nodejs-saltfactory</string>
+	<key>ordering</key>
+	<array/>
+	<key>uuid</key>
+	<string>AFE16723-498D-41B3-9D02-87A867B02B8A</string>
+</dict>
+</plist>
