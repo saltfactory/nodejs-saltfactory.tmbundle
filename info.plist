@@ -5,7 +5,12 @@
 	<key>name</key>
 	<string>Nodejs-saltfactory</string>
 	<key>ordering</key>
-	<array/>
+	<array>
+		<string>993D07C9-A22A-468B-861C-4743406C5338</string>
+		<string>35C201BF-D55A-48E7-A4C3-A171FAF73143</string>
+		<string>4F647E9A-2040-430D-8749-8810E93F3F2C</string>
+		<string>3A2BA3ED-2F79-435B-9499-B00BA2CD0998</string>
+	</array>
 	<key>uuid</key>
 	<string>AFE16723-498D-41B3-9D02-87A867B02B8A</string>
 </dict>
